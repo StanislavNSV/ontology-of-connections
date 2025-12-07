@@ -1,4 +1,4 @@
-[![HOC](https://img.shields.io/badge/HOC-read_online-000000?style=for-the-badge&logo=github)](https://lum.rf.gd/)
+[![HOC](https://img.shields.io/badge/HOC-read_online-000000?style=for-the-badge&logo=github)](https://github.com/StanislavNSV/)
 # Гипотеза онтологии связей (ГОС) / Hypothesis of Ontology of Connections (HOC)  /  连接本体论假说 (HOC)
 
 ## Основная суть гипотезы / The main essence of the hypothesis
@@ -40,3 +40,4 @@ https://lum.rf.gd/
 ⭐ Если резонирует — форкните, комментируйте, предлагайте эксперименты / If this resonates, fork it, comment, and suggest experiments.
 License: CC-BY-SA 4.0
 2025
+<link rel="stylesheet" href="style.css">
