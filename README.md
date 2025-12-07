@@ -1,3 +1,4 @@
+[![HOC](https://img.shields.io/badge/HOC-read_online-000000?style=for-the-badge&logo=github)](https://stanislavnsv.github.io/ontology-of-connections/)
 # Гипотеза онтологии связей (ГОС) / Hypothesis of Ontology of Connections (HOC)  /  连接本体论假说 (HOC)
 **Первичны не частицы и не формы — первичны связи между квантами энергии.**  
 Из этих связей эмерджентно рождаются вложенные структуры «Я ↔ Мы», пространство-время, законы физики, сознание и социальные процессы.
