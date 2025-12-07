@@ -32,10 +32,12 @@ https://lum.rf.gd/
 
 ## Проверяемое предсказание / Testable Prediction
 
+
 | эксперименты описаны в полном тексте / experiments are described in the full text |
 | ------------------------------------------------------------ |
 | При росте когерентности группы наблюдателей в контролируемых условиях статистически значимо возрастает вероятность реализации низковероятных событий. |
 | As the coherence of a group of observers increases under controlled conditions, statistically significant increases The probability of low-probability events. |
+
 ---
 ⭐ Если резонирует — форкните, комментируйте, предлагайте эксперименты / If this resonates, fork it, comment, and suggest experiments.
 License: CC-BY-SA 4.0
