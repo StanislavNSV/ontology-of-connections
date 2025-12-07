@@ -1,65 +1,77 @@
-body {
-  background-color: #0d1117; /* Тёмный фон GitHub-like */
-  color: #c9d1d9; /* Светлый текст */
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;
-  line-height: 1.5;
-  margin: 0;
-  padding: 2rem;
-  max-width: 800px;
-  margin: 0 auto;
+/* === Тёмная тема для GitHub Pages (перебивает всё) === */
+html, body {
+    background-color: #0d1117 !important;
+    color: #c9d1d9 !important;
+    margin: 0;
+    padding: 2rem;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+    line-height: 1.6;
+    max-width: 860px;
+    margin: 0 auto;
 }
 
-h1, h2, h3 {
-  color: #58a6ff; /* Синий акцент для заголовков */
-  border-bottom: 1px solid #30363d;
-  padding-bottom: 0.5rem;
+h1, h2, h3, h4 {
+    color: #58a6ff !important;
+    border-bottom: 1px solid #30363d;
+    padding-bottom: .5rem;
 }
 
+/* Все таблицы и их ячейки */
 table {
-  background-color: #161b22;
-  border: 1px solid #30363d;
-  border-collapse: collapse;
-  width: 100%;
+    background-color: #161b22 !important;
+    border: 1px solid #30363d !important;
+    border-collapse: collapse !important;
+    width: 100% !important;
+    margin: 1.5rem 0 !important;
 }
 
 th, td {
-  padding: 0.75rem;
-  text-align: left;
-  border-bottom: 1px solid #30363d;
+    background-color: #161b22 !important;
+    border: 1px solid #30363d !important;
+    padding: 0.75rem !important;
+    text-align: left !important;
+    color: #c9d1d9 !important;
 }
 
 th {
-  background-color: #21262d;
-  color: #c9d1d9;
+    background-color: #21262d !important;
+    color: #58a6ff !important;
 }
 
-ul, ol {
-  background-color: #161b22;
-  padding: 1rem;
-  border-left: 3px solid #58a6ff;
+/* Заголовки строк в твоих «вертикальных» таблицах */
+td:first-child {
+    font-weight: 600;
+    color: #58a6ff;
 }
 
+/* Ссылки */
 a {
-  color: #58a6ff;
-  text-decoration: none;
+    color: #58a6ff !important;
+    text-decoration: none;
 }
 
 a:hover {
-  text-decoration: underline;
+    text-decoration: underline !important;
 }
 
+/* Код и цитаты */
 code {
-  background-color: #0d1117;
-  color: #f0f6fc;
-  padding: 0.2em 0.4em;
-  border-radius: 6px;
-  font-family: 'Monaco', 'Menlo', 'Ubuntu Mono', monospace;
+    background-color: #0d1117 !important;
+    color: #f0f6fc !important;
+    padding: 0.2em 0.4em;
+    border-radius: 6px;
 }
 
 blockquote {
-  background-color: #21262d;
-  border-left: 4px solid #58a6ff;
-  padding: 0.5rem 1rem;
-  margin: 0;
-  color: #8b949e;
+    background-color: #21262d !important;
+    border-left: 4px solid #58a6ff;
+    padding: 0.5rem 1rem;
+    color: #8b949e;
+    margin: 1rem 0;
+}
+
+/* Убираем белый фон у markdown-таблиц навсегда */
+.markdown-body table th,
+.markdown-body table td {
+    background-color: transparent !important;
 }
