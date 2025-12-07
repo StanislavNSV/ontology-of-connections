@@ -40,4 +40,3 @@ https://lum.rf.gd/
 ⭐ Если резонирует — форкните, комментируйте, предлагайте эксперименты / If this resonates, fork it, comment, and suggest experiments.
 License: CC-BY-SA 4.0
 2025
-<link rel="stylesheet" href="style.css">
