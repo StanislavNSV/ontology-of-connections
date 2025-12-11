@@ -20,6 +20,9 @@
 или/or
 https://lum.rf.gd/
 
+- **[Русский — дополнение](add_rus.md)**  
+- **[English — addon](add_eng.md)**  
+
 ## Кратко о главном / Briefly about the main points
 
 | Рус                                                          | Eng                                                          |
