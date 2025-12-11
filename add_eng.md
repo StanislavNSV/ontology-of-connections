@@ -351,18 +351,18 @@ Let's assemble the functional from these fundamental components, taking entropy 
 
 #### **(1) Structural Stability (Amplitude Part)**
 
-$$
+$`
 K_1 = \sum_{i<j} |w_{ij}|^\alpha, \quad \alpha > 1
-$$
+`$
 
 Reflects the contribution of connection strengths to the overall node stability.
 The nonlinearity $\alpha > 1$ captures the synergistic nature of coherence.
 
 #### **(2) Phase Consistency**
 
-$$
+$`
 K_2 = \sum_{i<j<k} \cos(\theta_{ij} + \theta_{jk} + \theta_{ki})
-$$
+`$
 
 Triangular cycles define local phase 'meaningfulness':
 if the phases sum to a closed cycle, the structure is stable;
@@ -409,9 +409,9 @@ Entropy reduces coherence, reflecting the pressure of Chaos and local noise.
 
 ### **4. Final Form**
 
-$$
+$`
 K[W] = \sum_{i<j} |w_{ij}|^\alpha + \sum_{i<j<k} \cos(\theta_{ij} + \theta_{jk} + \theta_{ki}) +\sum_{C} g\!\left(\sum_{(i,j)\in C} |w_{ij}|\right)-\lambda \sum_{i} H(W_i)\quad \alpha > 1
-$$
+`$
 
 This is the minimal, yet already functional, form capable of:
 
@@ -837,4 +837,5 @@ Thus, the Hypothesis of Ontology of Connections formulates not an alternative to
 Its verification is not a single experiment, but a prolonged process of demonstrating its **heuristic and synthetic power**, one just needs to look around and observe any process of social interaction.
 
 HOC aims to offer a holistic, meaningful, and practical picture of reality, where physical law, consciousness, and social process are seen as different facets of a unified dynamics — the dynamics of establishing, strengthening, and transforming **connections**.
+
 Therefore, the criterion for its truth becomes not the refutation of old models or numerical predictions, but the ability to become a **more productive framework for understanding the world and acting within it**.
