@@ -17,17 +17,27 @@ Although a Hypothesis is not a Theory, you persistently demand specifics and for
 
 Well then, even though I am not a theorist, if you want formulas so badly...
 I have my pockets full of them.
-But are you ready to see them?
 
-Therefore, before proceeding with further reading,
-I strongly urge you to at least familiarize yourself with the HOC itself,
+But, before proceeding with further reading,
+I strongly urge you to at least familiarize yourself with the HOS itself,
 so you can think within the framework of this Hypothesis.
 
-https://github.com/StanislavNSV/ontology-of-connections/blob/main/0001_eng.md
+https://github.com/StanislavNSV/ontology-of-connections/blob/main/0001_rus.md
 or https://lum.rf.gd/
 
+Then you can proceed to a detailed study of the formulas and their implications.
 
 
+For a practical verification of these formulas right now, besides logic, you will need:
+
+- A set of mental measuring cups,
+- A tape measure and a precision rangefinder for measuring connection lengths,
+- A mood spectrograph,
+- Scales for weighing motivation,
+- And, of course, patience to realize that all of this is a joke.
+
+Because the only real verification tool is your thinking,
+and the only criterion is your ability to see connections where there was only Chaos before.
 ---
 
 ## Explanation in Simple Terms
@@ -839,3 +849,4 @@ Its verification is not a single experiment, but a prolonged process of demonstr
 HOC aims to offer a holistic, meaningful, and practical picture of reality, where physical law, consciousness, and social process are seen as different facets of a unified dynamics — the dynamics of establishing, strengthening, and transforming **connections**.
 
 Therefore, the criterion for its truth becomes not the refutation of old models or numerical predictions, but the ability to become a **more productive framework for understanding the world and acting within it**.
+
